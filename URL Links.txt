@@ -1,0 +1,36 @@
+JIRA
+
+https://geoplan.atlassian.net/secure/Dashboard.jspa
+
+SKIN
+
+https://skinonline.geoplan.com/login.aspx?ReturnUrl=%2f
+
+SKIN PRE
+
+https://skinonline-preprod.geoplan.com/login.aspx?ReturnUrl=%2f
+
+Intranet
+
+https://geoplanspatial.sharepoint.com/
+
+Vinecode
+
+https://my.vinecode.uk/
+
+Chaper eight
+
+https://my.chaptereight.com/geoplan-software/CSRF318D8930E416C663EDED3A2F81EE599C/admin
+
+CRM
+
+http://crm/
+
+CRM Links
+
+http://hydra/crmlinks/
+
+
+HYDRA Processing
+
+http://hydra/dataprocessing/
