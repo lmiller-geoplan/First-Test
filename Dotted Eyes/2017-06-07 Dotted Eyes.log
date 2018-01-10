@@ -1,0 +1,203 @@
+2017-07-24 12:58:53|   0.2|  0.2|INFORM|FME 2017.0.1.0 (20170428 - Build 17288 - WIN64)
+2017-07-24 12:58:53|   0.2|  0.0|INFORM|FME_HOME is 'C:\Program Files\FME\'
+2017-07-24 12:58:53|   0.2|  0.0|INFORM|FME Professional Edition (node locked-crc)
+2017-07-24 12:58:53|   0.2|  0.0|INFORM|Serial Number: 56P4-KY9F-14U8
+2017-07-24 12:58:53|   0.2|  0.0|INFORM|Permanent License.
+2017-07-24 12:58:53|   0.2|  0.0|INFORM|Machine host name is: GIS005
+2017-07-24 12:58:53|   0.2|  0.0|INFORM|START - ProcessID: 13040, peak process memory usage: 31684 kB, current process memory usage: 31564 kB
+2017-07-24 12:58:53|   0.2|  0.0|INFORM|FME Configuration: Command line arguments are `C:\Program Files\FME\fme.exe' `C:/Data/Update Cycle Custom Builds/Dotted Eyes\wb-xlate-1500897531800_18640' `LOG_STANDARDOUT' `YES' `LogCountServerName' `{ba8c7ba0-6352-4cca-8650-efb318b946e5}'
+2017-07-24 12:58:53|   0.3|  0.0|INFORM|Shared folders for formats are : C:\Program Files\FME\datasources;C:\Users\liammiller\Documents\FME\Formats
+2017-07-24 12:58:53|   0.3|  0.0|INFORM|Shared folders for transformers are : C:\Program Files\FME\transformers;C:\Users\liammiller\Documents\FME\Transformers;C:\Users\liammiller\AppData\Roaming\Safe Software\FME\FME Store\Transformers
+2017-07-24 12:58:53|   0.3|  0.0|INFORM|Shared folders for coordinate systems are : C:\Users\liammiller\Documents\FME\CoordinateSystems
+2017-07-24 12:58:53|   0.3|  0.0|INFORM|Shared folders for coordinate system exceptions are : C:\Users\liammiller\Documents\FME\CoordinateSystemExceptions
+2017-07-24 12:58:53|   0.3|  0.0|INFORM|Shared folders for coordinate system grid overrides are : C:\Users\liammiller\Documents\FME\CoordinateSystemGridOverrides
+2017-07-24 12:58:53|   0.3|  0.0|INFORM|Shared folders for CS-MAP transformation exceptions are : C:\Users\liammiller\Documents\FME\CsmapTransformationExceptions
+2017-07-24 12:58:53|   0.3|  0.0|INFORM|Shared folders for transformer categories are : C:\Users\liammiller\Documents\FME\TransformerCategories
+2017-07-24 12:58:53|   0.3|  0.0|INFORM|Mapping File Identifier is: Format & Projection Setter / Creator
+2017-07-24 12:58:53|   0.3|  0.0|INFORM|FME Configuration: Reader Keyword is `MAPINFO_1'
+2017-07-24 12:58:53|   0.3|  0.0|INFORM|FME Configuration: Writer Keyword is `MULTI_WRITER'
+2017-07-24 12:58:53|   0.3|  0.0|INFORM|FME Configuration: Writer Group Definition Keyword is `MULTI_WRITER_DEF'
+2017-07-24 12:58:53|   0.3|  0.0|INFORM|FME Configuration: Reader type is `NULL'
+2017-07-24 12:58:53|   0.3|  0.0|INFORM|FME Configuration: Writer type is `MULTI_WRITER'
+2017-07-24 12:58:53|   0.3|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2017-07-24 12:58:53|   0.3|  0.0|INFORM|FME Configuration: Current working folder is `C:\Data\Update Cycle Custom Builds\Dotted Eyes'
+2017-07-24 12:58:53|   0.3|  0.0|INFORM|FME Configuration: Temporary folder is `C:\Users\LIAMMI~1\AppData\Local\Temp', set from environment variable `TEMP'
+2017-07-24 12:58:53|   0.3|  0.0|INFORM|FME Configuration: FME_HOME is `C:\Program Files\FME\'
+2017-07-24 12:58:53|   0.3|  0.0|INFORM|FME Configuration: FME_BASE is 'no'
+2017-07-24 12:58:53|   0.3|  0.0|INFORM|FME Configuration: FME_MF_DIR is 'C:\Data\Update Cycle Custom Builds\Dotted Eyes/'
+2017-07-24 12:58:53|   0.3|  0.0|INFORM|FME Configuration: FME_MF_NAME is '2017-06-07 Dotted Eyes.fmw'
+2017-07-24 12:58:53|   0.3|  0.0|INFORM|FME Configuration: FME_PRODUCT_NAME is 'FME(R) 2017.0.1.0'
+2017-07-24 12:58:53|   0.3|  0.0|INFORM|System Status: 34.35 GB of disk space available in the FME temporary folder (C:\Users\LIAMMI~1\AppData\Local\Temp)
+2017-07-24 12:58:53|   0.3|  0.0|INFORM|System Status: 128.00 TB of virtual memory available
+2017-07-24 12:58:53|   0.3|  0.0|INFORM|Operating System: Microsoft Windows 10 64-bit  (Build 15063)
+2017-07-24 12:58:53|   0.3|  0.0|INFORM|FME Platform: WIN64
+2017-07-24 12:58:53|   0.3|  0.0|INFORM|Locale: en_GB
+2017-07-24 12:58:53|   0.3|  0.0|INFORM|Code Page: 1252  (ANSI - Latin I)
+2017-07-24 12:58:53|   0.3|  0.0|INFORM|FME Configuration: Process limit is 31.87 GB of physical memory
+2017-07-24 12:58:53|   0.3|  0.0|INFORM|FME Configuration: Start freeing memory when process usage exceeds 95.60 GB of virtual memory
+2017-07-24 12:58:53|   0.3|  0.0|INFORM|FME Configuration: Stop freeing memory when process usage is below 71.70 GB of virtual memory
+2017-07-24 12:58:53|   0.3|  0.0|INFORM|Creating writer for format: 
+2017-07-24 12:58:53|   0.3|  0.0|INFORM|Creating reader for format: NULL (Nothing)
+2017-07-24 12:58:53|   0.3|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `NULL'
+2017-07-24 12:58:53|   0.3|  0.0|INFORM|Loaded module 'NULL' from file 'C:\Program Files\FME\plugins/NULL.dll'
+2017-07-24 12:58:53|   0.3|  0.0|INFORM|FME API version of module 'NULL' matches current internal version (3.8 20170315)
+2017-07-24 12:58:53|   0.3|  0.0|INFORM|Using MultiWriter with keyword `MULTI_WRITER' to output data (ID_ATTRIBUTE is `multi_writer_id')
+2017-07-24 12:58:53|   0.3|  0.0|INFORM|Writer output will be ordered by value of multi_writer_id
+2017-07-24 12:58:53|   0.3|  0.0|INFORM|Loaded module 'LogCount_func' from file 'C:\Program Files\FME\plugins/LogCount_func.dll'
+2017-07-24 12:58:53|   0.3|  0.0|INFORM|FME API version of module 'LogCount_func' matches current internal version (3.8 20170315)
+2017-07-24 12:58:53|   0.4|  0.0|INFORM|Creating writer for format: FME Feature Store (FFS)
+2017-07-24 12:58:53|   0.4|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2017-07-24 12:58:53|   0.4|  0.0|INFORM|Loaded module 'Geometry_func' from file 'C:\Program Files\FME\plugins/Geometry_func.dll'
+2017-07-24 12:58:53|   0.4|  0.0|INFORM|FME API version of module 'Geometry_func' matches current internal version (3.8 20170315)
+2017-07-24 12:58:53|   0.4|  0.0|INFORM|Loaded module 'PythonFactory' from file 'C:\Program Files\FME\plugins/PythonFactory.dll'
+2017-07-24 12:58:53|   0.4|  0.0|INFORM|FME API version of module 'PythonFactory' matches current internal version (3.8 20170315)
+2017-07-24 12:58:53|   0.4|  0.0|INFORM|Using Python interpreter from `C:\Program Files\FME\fmepython27\python27.dll' with PYTHONHOME `C:\Program Files\FME\fmepython27'
+2017-07-24 12:58:53|   0.4|  0.0|INFORM|Python version 2.7 loaded successfully
+2017-07-24 12:58:53|   0.5|  0.1|INFORM|Adding folder `C:\Data\Update Cycle Custom Builds\Dotted Eyes\' to the python path
+2017-07-24 12:58:53|   0.5|  0.0|INFORM|Emptying factory pipeline
+2017-07-24 12:58:53|   0.5|  0.0|STATS |Router and Unexpected Input Remover(RoutingFactory): Tested 0 input feature(s), wrote 0 output feature(s): 0 matched merge filters, 0 were routed to output, 0 could not be routed.
+2017-07-24 12:58:53|   0.5|  0.0|STATS |Unexpected Input Remover Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.5|  0.0|STATS |ANY PRODUCT TAB (MAPINFO_1) Splitter(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.5|  0.0|STATS |ANY PRODUCT TAB_MAPINFO_1 Feature Counter -1 47(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.1|STATS |Storing feature(s) to FME feature store file `C:\Users\LIAMMI~1\AppData\Local\Temp\2017-06-07_Dotted_Eyes_125853\inspector.ffs'
+2017-07-24 12:58:53|   0.6|  0.0|STATS |Zip_Creator_XML_Creator(CreationFactory): Created 1 features
+2017-07-24 12:58:53|   0.6|  0.0|STATS |Zip_Creator_Cloner(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |Zip_Creator_CREATED Feature Counter -1 115(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |Zip_Creator_CREATED Brancher -1 115(BranchingFactory): Branched 1 input feature -- 1 feature routed to the target factory, and 0 features routed to the fallback factory.
+2017-07-24 12:58:53|   0.6|  0.0|STATS |_CREATOR_BRANCH_TARGET(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |ZipArchiver Input Input Collector(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |ZipArchiver_Input1500897532 Input Splitter(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |ZipArchiver_Input Feature Counter 2 14(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |ZipArchiver_ParameterFetcher(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |ZipArchiver_ParameterFetcher_OUTPUT Feature Counter 2 18(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|INFORM|Optional `close' method not present; not called
+2017-07-24 12:58:53|   0.6|  0.0|STATS |ZipArchiver_PythonCaller_OUTPUT Feature Counter 2 20(TeeFactory): Cloned 3 input feature(s) into 3 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |ZipArchiver_Tester(TestFactory): Tested 3 input feature(s) -- 1 feature(s) passed and 2 feature(s) failed
+2017-07-24 12:58:53|   0.6|  0.0|STATS |ZipArchiver_Tester_PASSED Feature Counter 2 19(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |ZipArchiver_Tester_FAILED Feature Counter 2 15(TeeFactory): Cloned 2 input feature(s) into 2 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |ZipArchiver_AttributeRenamer(TeeFactory): Cloned 2 input feature(s) into 2 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |ZipArchiver_AttributeRenamer_OUTPUT Feature Counter 2 16(TeeFactory): Cloned 2 input feature(s) into 2 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |ZipArchiver_AttributeExposer(TeeFactory): Cloned 2 input feature(s) into 2 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |ZipArchiver_AttributeExposer_OUTPUT Feature Counter 2 17(TeeFactory): Cloned 2 input feature(s) into 2 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |ZipArchiver_AttributeKeeper(TeeFactory): Cloned 2 input feature(s) into 2 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |ZipArchiver_AttributeKeeper_OUTPUT Feature Counter 2 21(TeeFactory): Cloned 2 input feature(s) into 2 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |ZipArchiver_AttributeFilter(TestFactory): Tested 2 input feature(s) -- 2 feature(s) passed and 0 feature(s) failed
+2017-07-24 12:58:53|   0.6|  0.0|STATS |ZipArchiver_AttributeFilter_NullFilter(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2017-07-24 12:58:53|   0.6|  0.0|STATS |ZipArchiver_AttributeFilter_MissingFilter(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2017-07-24 12:58:53|   0.6|  0.0|STATS |ZipArchiver_AttributeFilter_BlankFilter(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2017-07-24 12:58:53|   0.6|  0.0|STATS |ZipArchiver_AttributeFilter <EMPTY> Output Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |ZipArchiver_AttributeFilter <MISSING> Output Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |ZipArchiver_AttributeFilter <NULL> Output Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |ZipArchiver_AttributeFilter <UNFILTERED> Output Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |ZipArchiver_AttributeFilter_success Feature Counter 2 22(TeeFactory): Cloned 2 input feature(s) into 2 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |ZipArchiver_AttributeFilter_failure Feature Counter 2 23(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |ZipArchiver_AttributeFilter_terminate Feature Counter 2 24(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |ZipArchiver_Terminator(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2017-07-24 12:58:53|   0.6|  0.0|STATS |ZipArchiver_Output1500897532 Output Collector(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |ZipArchiver_LogSuccess1500897532 Output Collector(TeeFactory): Cloned 2 input feature(s) into 2 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |ZipArchiver_LogFailure1500897532 Output Collector(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |ZipArchiver Output Output Renamer/Nuker(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |ZipArchiver LogSuccess Output Renamer/Nuker(TeeFactory): Cloned 2 input feature(s) into 2 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |ZipArchiver LogFailure Output Renamer/Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |ZipArchiver_Output Feature Counter -1 117(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |ZipArchiver_LogSuccess Feature Counter -1 119(TeeFactory): Cloned 2 input feature(s) into 2 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |ZipArchiver_LogFailure Feature Counter -1 121(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |ZipArchiver_LogFailure_DirCreator(CreationFactory): Created 1 features
+2017-07-24 12:58:53|   0.6|  0.0|STATS |ZipArchiver_LogFailure_DirCreatorCleanerUpper(TeeFactory): Cloned 1 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |ZipArchiver_LogFailure_FeatureDirector(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2017-07-24 12:58:53|   0.6|  0.0|STATS |ZipArchiver_LogFailure___FeatureDirector1(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2017-07-24 12:58:53|   0.6|  0.0|STATS |ZipArchiver_LogFailure_VectorSetterUpper(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |ZipArchiver_LogFailure___PointCloudThinner(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |ZipArchiver_LogFailure_RasterSetterUpper(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|INFORM|ZipArchiver_LogFailure_Recorder(RecorderFactory): Recorded 0 feature(s) to file `C:\Users\LIAMMI~1\AppData\Local\Temp\2017-06-07_Dotted_Eyes_125853\inspector.ffs'
+2017-07-24 12:58:53|   0.6|  0.0|STATS |ZipArchiver_LogSuccess_DirCreator(CreationFactory): Created 1 features
+2017-07-24 12:58:53|   0.6|  0.0|STATS |ZipArchiver_LogSuccess_DirCreatorCleanerUpper(TeeFactory): Cloned 1 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |ZipArchiver_LogSuccess_FeatureDirector(TestFactory): Tested 2 input feature(s) -- 0 feature(s) passed and 2 feature(s) failed
+2017-07-24 12:58:53|   0.6|  0.0|STATS |ZipArchiver_LogSuccess___FeatureDirector1(TestFactory): Tested 2 input feature(s) -- 0 feature(s) passed and 2 feature(s) failed
+2017-07-24 12:58:53|   0.6|  0.0|STATS |ZipArchiver_LogSuccess_VectorSetterUpper(TeeFactory): Cloned 2 input feature(s) into 2 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |ZipArchiver_LogSuccess___PointCloudThinner(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |ZipArchiver_LogSuccess_RasterSetterUpper(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|INFORM|ZipArchiver_LogSuccess_Recorder(RecorderFactory): Recorded 2 feature(s) to file `C:\Users\LIAMMI~1\AppData\Local\Temp\2017-06-07_Dotted_Eyes_125853\inspector.ffs'
+2017-07-24 12:58:53|   0.6|  0.0|STATS |ZipArchiver_Output_DirCreator(CreationFactory): Created 1 features
+2017-07-24 12:58:53|   0.6|  0.0|STATS |ZipArchiver_Output_DirCreatorCleanerUpper(TeeFactory): Cloned 1 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |ZipArchiver_Output_FeatureDirector(TestFactory): Tested 1 input feature(s) -- 0 feature(s) passed and 1 feature(s) failed
+2017-07-24 12:58:53|   0.6|  0.0|STATS |ZipArchiver_Output___FeatureDirector1(TestFactory): Tested 1 input feature(s) -- 0 feature(s) passed and 1 feature(s) failed
+2017-07-24 12:58:53|   0.6|  0.0|STATS |ZipArchiver_Output_VectorSetterUpper(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |ZipArchiver_Output___PointCloudThinner(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |ZipArchiver_Output_RasterSetterUpper(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|INFORM|Saving spatial index into file 'C:\Users\LIAMMI~1\AppData\Local\Temp\2017-06-07_Dotted_Eyes_125853\inspector.fsi'
+2017-07-24 12:58:53|   0.6|  0.0|INFORM|Finished saving spatial index into file 'C:\Users\LIAMMI~1\AppData\Local\Temp\2017-06-07_Dotted_Eyes_125853\inspector.fsi'
+2017-07-24 12:58:53|   0.6|  0.0|STATS |Stored 3 feature(s) to FME feature store file `C:\Users\LIAMMI~1\AppData\Local\Temp\2017-06-07_Dotted_Eyes_125853\inspector.ffs'
+2017-07-24 12:58:53|   0.6|  0.0|INFORM|ZipArchiver_Output_Recorder(RecorderFactory): Recorded 1 feature(s) to file `C:\Users\LIAMMI~1\AppData\Local\Temp\2017-06-07_Dotted_Eyes_125853\inspector.ffs'
+2017-07-24 12:58:53|   0.6|  0.0|STATS |TestFilter_2(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |TestFilter_2_TestFactory_0(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2017-07-24 12:58:53|   0.6|  0.0|STATS |TestFilter_2_TestFactory_1(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2017-07-24 12:58:53|   0.6|  0.0|STATS |TestFilter_2_<lt>UNFILTERED<gt>(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |TestFilter_2 <lt>UNFILTERED<gt> Output Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |TestFilter_2_GY Feature Counter -1 48(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |TestFilter_2_JE Feature Counter -1 35(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |AttributeCreator_3_OUTPUT Feature Counter -1 37(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |CSV_Formatter_2 GeometryFilter_3_Input Input Collector(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |CSV_Formatter_2_GeometryFilter_3_Input1500897532 Input Splitter(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |CSV_Formatter_2_GeometryFilter_3_Input Feature Counter 1 7(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |CSV_Formatter_2_GeometryFilter_3_InputPassThrough(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |CSV_Formatter_2_GeometryFilter_3_InstanceTest(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2017-07-24 12:58:53|   0.6|  0.0|STATS |CSV_Formatter_2_GeometryFilter_3_RouterPrepper(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |CSV_Formatter_2_GeometryFilter_3_Router(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2017-07-24 12:58:53|   0.6|  0.0|STATS |CSV_Formatter_2_GeometryFilter_3 LINE Output Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |CSV_Formatter_2_GeometryFilter_3 AREA Output Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |CSV_Formatter_2_GeometryFilter_3 <UNFILTERED> Output Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |CSV_Formatter_2_GeometryFilter_3_POINT Feature Counter 1 8(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |CSV_Formatter_2_GeometryFilter_3_NULL Feature Counter 1 11(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |CSV_Formatter_2_AttributeCreator_2_OUTPUT Feature Counter 1 10(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |CSV_Formatter_2_StringReplacer_2(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |CSV_Formatter_2_StringReplacer_2_OUTPUT Feature Counter 1 9(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |CSV_Formatter_2_StringReplacer_2_Output1500897532 Output Collector(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |CSV_Formatter_2 StringReplacer_2_Output Output Renamer/Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |CSV_Formatter_2_StringReplacer_2_Output Feature Counter -1 62(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |AttributeCreator_2_OUTPUT Feature Counter -1 36(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |CSV_Formatter_8 GeometryFilter_3_Input Input Collector(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |CSV_Formatter_8_GeometryFilter_3_Input1500897532 Input Splitter(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |CSV_Formatter_8_GeometryFilter_3_Input Feature Counter 1 7(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |CSV_Formatter_8_GeometryFilter_3_InputPassThrough(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |CSV_Formatter_8_GeometryFilter_3_InstanceTest(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2017-07-24 12:58:53|   0.6|  0.0|STATS |CSV_Formatter_8_GeometryFilter_3_RouterPrepper(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |CSV_Formatter_8_GeometryFilter_3_Router(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2017-07-24 12:58:53|   0.6|  0.0|STATS |CSV_Formatter_8_GeometryFilter_3 LINE Output Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |CSV_Formatter_8_GeometryFilter_3 AREA Output Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |CSV_Formatter_8_GeometryFilter_3 <UNFILTERED> Output Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |CSV_Formatter_8_GeometryFilter_3_POINT Feature Counter 1 8(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |CSV_Formatter_8_GeometryFilter_3_NULL Feature Counter 1 11(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |CSV_Formatter_8_AttributeCreator_2_OUTPUT Feature Counter 1 10(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |CSV_Formatter_8_StringReplacer_2(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |CSV_Formatter_8_StringReplacer_2_OUTPUT Feature Counter 1 9(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |CSV_Formatter_8_StringReplacer_2_Output1500897532 Output Collector(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |CSV_Formatter_8 StringReplacer_2_Output Output Renamer/Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |CSV_Formatter_8_StringReplacer_2_Output Feature Counter -1 41(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |Destination Feature Type Routing Correlator(RoutingFactory): Tested 0 input feature(s), wrote 0 output feature(s): 0 matched merge filters, 0 were routed to output, 0 could not be routed.
+2017-07-24 12:58:53|   0.6|  0.0|STATS |Final Output Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|STATS |f_121(CreationFactory): Created 1 features
+2017-07-24 12:58:53|   0.6|  0.0|STATS |f_122(TeeFactory): Cloned 1 input feature(s) into 0 output feature(s)
+2017-07-24 12:58:53|   0.6|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-07-24 12:58:53|   0.6|  0.0|INFORM|Feature output statistics for `FFS' writer using keyword `W_1':
+2017-07-24 12:58:53|   0.6|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-07-24 12:58:53|   0.6|  0.0|STATS |                               Features Written
+2017-07-24 12:58:53|   0.6|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-07-24 12:58:53|   0.6|  0.0|STATS |==============================================================================
+2017-07-24 12:58:53|   0.6|  0.0|STATS |Total Features Written                                                       0
+2017-07-24 12:58:53|   0.6|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-07-24 12:58:53|   0.6|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-07-24 12:58:53|   0.6|  0.0|STATS |                            Features Read Summary
+2017-07-24 12:58:53|   0.6|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-07-24 12:58:53|   0.6|  0.0|STATS |==============================================================================
+2017-07-24 12:58:53|   0.6|  0.0|STATS |Total Features Read                                                          0
+2017-07-24 12:58:53|   0.6|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-07-24 12:58:53|   0.6|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-07-24 12:58:53|   0.6|  0.0|STATS |                           Features Written Summary
+2017-07-24 12:58:53|   0.6|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-07-24 12:58:53|   0.6|  0.0|STATS |==============================================================================
+2017-07-24 12:58:53|   0.6|  0.0|STATS |Total Features Written                                                       0
+2017-07-24 12:58:53|   0.6|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-07-24 12:58:53|   0.6|  0.0|INFORM|Translation was SUCCESSFUL with 0 warning(s) (0 feature(s) output)
+2017-07-24 12:58:53|   0.6|  0.0|INFORM|FME Session Duration: 0.7 seconds. (CPU: 0.3s user, 0.1s system)
+2017-07-24 12:58:53|   0.6|  0.0|INFORM|END - ProcessID: 13040, peak process memory usage: 56396 kB, current process memory usage: 53260 kB
